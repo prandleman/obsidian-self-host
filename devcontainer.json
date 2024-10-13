@@ -1,0 +1,6 @@
+{
+    "name": "My Codespace",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "web", // The service to run when opening the Codespace
+    "workspaceFolder": "/workspace" // Optional: Specify the workspace directory
+  }
